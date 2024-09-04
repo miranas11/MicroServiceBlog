@@ -1,0 +1,3 @@
+{
+    "prettier.documentSelectors": ["**/*.{js,ts,jsx,tsx,json,css,scss,html}"]
+}
